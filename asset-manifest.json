@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NetflixLogin/static/css/main.c55021e1.css",
+    "main.js": "/NetflixLogin/static/js/main.6edbe3a8.js",
+    "static/js/453.4d4c064f.chunk.js": "/NetflixLogin/static/js/453.4d4c064f.chunk.js",
+    "static/media/hero-img2.jpg": "/NetflixLogin/static/media/hero-img2.b1f7142b53a12389c5a3.jpg",
+    "index.html": "/NetflixLogin/index.html",
+    "main.c55021e1.css.map": "/NetflixLogin/static/css/main.c55021e1.css.map",
+    "main.6edbe3a8.js.map": "/NetflixLogin/static/js/main.6edbe3a8.js.map",
+    "453.4d4c064f.chunk.js.map": "/NetflixLogin/static/js/453.4d4c064f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55021e1.css",
+    "static/js/main.6edbe3a8.js"
+  ]
+}
